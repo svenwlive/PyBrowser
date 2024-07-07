@@ -24,4 +24,4 @@ You will need to first have python3 set up on your device. If it's installed alr
 If you're on Linux, then you can probably use your package manager to install the dependencies.
 On Ubuntu, run `sudo apt install python3-pyqt5 python3-pyqt5.qtwebengine`
 
-When you have the dependencies installed, you can finally execute the main python script using `python3 pybrowser.py` in the same folder as the python script.
+When you have the dependencies installed, you can finally execute the main python script using `python3 PyBrowser.py` in the same folder as the python script.
