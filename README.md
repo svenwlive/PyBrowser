@@ -25,3 +25,8 @@ If you're on Linux, then you can probably use your package manager to install th
 On Ubuntu, run `sudo apt install python3-pyqt5 python3-pyqt5.qtwebengine`
 
 When you have the dependencies installed, you can finally execute the main python script using `python3 PyBrowser.py` in the same folder as the python script.
+
+# Updating to a newer version of PyBrowser
+A new release. Want to update to it? Aight.
+
+First, download the new python script. Then, overwrite the old one. And voila, you have updated. This way all your bookmarks and settings should be preserved (if nothing goes wrong that is).
