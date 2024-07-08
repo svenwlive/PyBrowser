@@ -3,6 +3,11 @@ a small web browser that is built entirely in Python. Uses `Qt5` for the windowi
 
 **Currently in `Alpha` stage**
 
+# repository shortcuts
+* [Wiki](https://github.com/svenwlive/PyBrowser/wiki)
+* [Releases](https://github.com/svenwlive/PyBrowser/releases)
+* [Changelog (adding soon)]()
+
 # some notes
 * the PyBrowser uses `.json` files to save its settings, bookmarks and the website history. These files are saved to where the python script is located. **KEEP THIS IN MIND**
 
